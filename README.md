@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-We are an independent team of software developers for government and commercial needs.
+We are an ambitious development team from Russia.
 
-Our main product is our own web operating system called Bezur OS based on xCore.
-
-We also develop a Linux distribution of the same name.
+We develop and support software solutions.
